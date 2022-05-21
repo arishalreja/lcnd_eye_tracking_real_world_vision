@@ -1,4 +1,4 @@
-## A New Paradigm for Investigating Real-World Social Behavior and its Neural Underpinnings
+### A New Paradigm for Investigating Real-World Social Behavior and its Neural Underpinnings
 
 Welcome! This repository is associated with the manuscript
 
